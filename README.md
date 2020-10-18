@@ -1,4 +1,4 @@
-# Gojek Parking Lot
+# Parking Lot
 
 Built and tested on Ubuntu 16.04. 
 ## Prerequisites
