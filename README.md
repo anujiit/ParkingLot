@@ -13,5 +13,4 @@ Built and tested on Ubuntu 16.04.
 *	Run bin/parking_lot <inputFile\> to run the app with file input. 
  
 ## Output
-*	*target* folder containing gojek-parkinglot-1.0.0.jar.
 *	site folder containing test coverage results. 
